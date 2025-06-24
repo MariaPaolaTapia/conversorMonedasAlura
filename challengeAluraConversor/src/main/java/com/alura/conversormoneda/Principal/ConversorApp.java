@@ -19,7 +19,7 @@ public class ConversorApp {
                     1-Dólar => Peso Argentino
                     2-Dólar => Euro
                     3-Dólar => Real
-                    4-Euro => Dolar
+                    4-Euro => Dólar 
                     5-Euro => Peso Argentino
                     6-Euro => Real
                     7- SALIR
